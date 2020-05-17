@@ -28,9 +28,6 @@ Run **VISUAL_SINGLE.py** - for single view of data (one page)
 Run **VISUAL_AUTO.py** - 
 this code will download the required data, converts and cleanses it before converting visualisations in .png files
 
-NOTE: If this **VISUAL_AUTO.py** does not run for some technical reasons, Try running under Anaconda - Spyder 
-OR alternatively Run **VISUAL_COMPARE.py** for comparison graph and analysis
-
 
 **What each file does:**
 
